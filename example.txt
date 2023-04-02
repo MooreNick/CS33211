@@ -1,0 +1,24 @@
+// below is from the terminal after executing this program as an example, as requested in the assignment .docx
+
+[nmoore22@wasp test]$ ./producer & ./consumer
+[22] 1649906
+producer produced 15
+producer produced 68
+consumer removed 15
+consumer removed 68
+producer produced 10
+producer produced 62
+consumer removed 10
+consumer removed 62
+producer produced 6
+producer produced 88
+consumer removed 6
+consumer removed 88
+producer produced 42
+producer produced 65
+consumer removed 42
+consumer removed 65
+producer produced 85
+producer produced 79
+consumer removed 85
+consumer removed 79
